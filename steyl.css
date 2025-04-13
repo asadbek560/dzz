@@ -1,0 +1,120 @@
+.dd{
+    background-color: purple;
+ width: 200px;
+ height: 180px;
+ border: 2px solid black;
+ border-radius: 7px;
+ display: flex;
+ gap: 10px;
+ padding-left: 8px;
+ padding-top: 8px;
+}
+.aa{
+ justify-content: center;
+ gap: 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.a{
+    background-color: tomato;
+    width: 40px;
+    height: 40px;
+ border-radius: 7px;
+ border: 1px solid;
+}
+.d{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;  
+    flex-direction: column;
+}
+.ddd{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;  
+    flex-wrap: wrap;
+}
+.da{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;
+    justify-content: space-between;
+}
+.z{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;
+    justify-content: end;
+}
+.zz{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;
+    justify-content: center;
+}
+.cc{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;   
+    align-items: center;
+}
+.ss{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;   
+    justify-content: space-around;
+}
+.qq{
+    background-color: purple;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    padding-left: 8px;
+    padding-top: 8px;   
+    align-items:flex-end;
+}
